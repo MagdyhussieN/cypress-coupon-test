@@ -1,0 +1,5 @@
+{
+    "role": "user",
+    "couponCode": "TESTAUTOMATIONCOUPON",
+    "expectedDiscount": 100
+}
